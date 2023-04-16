@@ -2,6 +2,7 @@
   "name": "youtube-node-mongo",
   "version": "1.0.0",
   "description": "A test repo to configure nodejs and mongodb",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
